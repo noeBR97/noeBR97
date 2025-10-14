@@ -30,9 +30,6 @@
 ## 📊 Un poco de mis estadísticas  
 
 <p align="center">
-  <!-- Racha de actividad -->
-  <img src="https://streak-stats.demolab.com?user=noeBR97&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Racha de commits"/>
-  <br/><br/>
   <!-- Lenguajes más usados en forma de donut -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=noeBR97&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=noeBR97&theme=tokyonight" />
