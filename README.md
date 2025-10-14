@@ -30,9 +30,15 @@
 ## 📊 Un poco de mis estadísticas  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noeBR97&show_icons=true&theme=radical" alt="stats de GitHub" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noeBR97&layout=compact&theme=radical" alt="lenguajes más usados" />
+  <!-- Racha de actividad -->
+  <img src="https://streak-stats.demolab.com?user=NoeliaBarrionuevoRomero&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Racha de commits"/>
+  <br/><br/>
+  <!-- Lenguajes más usados en forma de donut -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NoeliaBarrionuevoRomero&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NoeliaBarrionuevoRomero&theme=tokyonight" />
+  <br/><br/>
+  <!-- Resumen general -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NoeliaBarrionuevoRomero&theme=tokyonight" />
 </p>
 
 ---
