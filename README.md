@@ -6,10 +6,11 @@
 
 ## 🚀 Sobre mí
 
-- 📚 Actualmente estoy estudiando **Desarrollo de Aplicaciones Web**.  
 - 💡 Me interesa aprender sobre frameworks modernos y buenas prácticas de desarrollo.  
 - ⚙️ Disfruto trabajar en proyectos que combinan **backend y frontend**, explorando cómo hacer que las aplicaciones sean útiles y visualmente atractivas.  
-- 🧩 Me gusta resolver problemas mediante código y mejorar mis proyectos constantemente.  
+- 🧩 Me gusta resolver problemas mediante código y mejorar mis proyectos constantemente.
+- ✨ Crear proyectos desde cero.  
+- 🌈 Dar estilo a mis páginas web.  
 
 ---
 
