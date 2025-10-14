@@ -30,9 +30,9 @@
 ## 📊 Un poco de mis estadísticas  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NoeliaBarrionuevoRomero&show_icons=true&theme=radical" alt="stats de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=noeBR97&show_icons=true&theme=radical" alt="stats de GitHub" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoeliaBarrionuevoRomero&layout=compact&theme=radical" alt="lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noeBR97&layout=compact&theme=radical" alt="lenguajes más usados" />
 </p>
 
 ---
