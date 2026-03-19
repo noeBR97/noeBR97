@@ -17,41 +17,17 @@
 ## 🧠 Tecnologías que manejo  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,angular,html,css,scss,kotlin,postgres,mongodb,php,python,laravel,nodejs&theme=dark"/>
 </p>
 
 ---
 
 ## 📊 Un poco de mis estadísticas  
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <div style="width: 420px;">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=noeBR97&show_icons=true&theme=neon" />
-      </div>
-    </td>
-    <td align="center">
-      <div style="width: 450px;">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noeBR97&hide_progress=true&theme=neon" />
-      </div>
-    </td>
-  </tr>
-</table>
-
-
-
-
-
-
-
-
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <img width="420px" src="https://github-readme-stats.vercel.app/api?username=noeBR97&show_icons=true&theme=neon" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noeBR97&hide_progress=true&theme=neon" />
+</div>
 
 ---
 
