@@ -30,14 +30,28 @@
 
 ## 📊 Un poco de mis estadísticas  
 
-<p align="center">
-  <!-- Lenguajes más usados en forma de donut -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=noeBR97&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=noeBR97&theme=tokyonight" />
-  <br/><br/>
-  <!-- Resumen general -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noeBR97&theme=tokyonight" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <div style="width: 420px;">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=noeBR97&show_icons=true&theme=neon" />
+      </div>
+    </td>
+    <td align="center">
+      <div style="width: 450px;">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noeBR97&hide_progress=true&theme=neon" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
 
 ---
 
