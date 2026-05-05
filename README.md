@@ -25,8 +25,7 @@
 ## 📊 Un poco de mis estadísticas  
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img width="420px" src="https://github-readme-stats.vercel.app/api?username=noeBR97&show_icons=true&theme=neon" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noeBR97&hide_progress=true&theme=neon" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=noeBR97&theme=tokyonight-duo&border_radius=&locale=es&mode=weekly" alt="GitHub Streak" /></a>
 </div>
 
 ---
